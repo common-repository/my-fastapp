@@ -1,0 +1,94 @@
+# Copyright (C) 2022 Teamonair s.r.l.
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: My FastAPP 1.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/MyFastApp.WordPressPlugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-17T05:08:53+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: my-fastapp\n"
+
+#. Plugin Name of the plugin
+#: includes/class-admin.php:29
+#: includes/class-admin.php:30
+msgid "My FastAPP"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.myfastapp.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows you to use your WordPress site as a backend to create your mobile application for iOS and Android. Configure and build your mobile applications directly from the WordPress site."
+msgstr ""
+
+#. Author of the plugin
+msgid "Teamonair s.r.l."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://teamonair.com/"
+msgstr ""
+
+#: includes/class-admin.php:38
+msgid "Settings"
+msgstr ""
+
+#: includes/class-admin.php:39
+msgid "Builds"
+msgstr ""
+
+#: includes/class-controller.php:184
+msgid "Unable to authenticate user"
+msgstr ""
+
+#: includes/class-controller.php:195
+msgid "Unable to get API Key"
+msgstr ""
+
+#: includes/class-controller.php:211
+msgid "Unable to obtain settings"
+msgstr ""
+
+#: includes/class-controller.php:221
+#: includes/class-controller.php:256
+msgid "Unable to update settings"
+msgstr ""
+
+#: includes/class-controller.php:235
+msgid "Unable to obtain menu items"
+msgstr ""
+
+#: includes/class-controller.php:245
+msgid "Unable to update menu items"
+msgstr ""
+
+#: includes/class-controller.php:269
+msgid "Unable to get live config"
+msgstr ""
+
+#: includes/class-controller.php:301
+msgid "Unable to update live config"
+msgstr ""
+
+#: includes/class-controller.php:314
+msgid "Unable to get app config"
+msgstr ""
+
+#: includes/class-controller.php:345
+msgid "Unable to update app config"
+msgstr ""
+
+#: includes/class-controller.php:376
+msgid "Unable to check pending config"
+msgstr ""
+
+#: includes/class-controller.php:570
+msgid "Unable to get today salt"
+msgstr ""
